@@ -1,4 +1,4 @@
-# matataki API
+# MatatakiAPI
   matataki API Documentation
 
 > 关于接口风格，和以前的设计有关，关于RESTful API可以看看[Egg的介绍](https://eggjs.org/zh-cn/tutorials/restful.html) or [REST](https://zh.wikipedia.org/wiki/REST)
