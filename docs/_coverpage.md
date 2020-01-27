@@ -4,8 +4,8 @@
 
 > Matataki的Api接口
 
-* 文档不完善
-* 不定时更新
+* 文档不完善、不定时更新
+* 同时也希望有更多的社区开发爱好者一起维护
 * 🍑🍑🍑🍑
 
 [GitHub](https://github.com/docsifyjs/docsify/)
